@@ -1,0 +1,4 @@
+cluster,buyer_count,avg_age,avg_properties,avg_investment,avg_property_value,avg_property_size,avg_satisfaction,percentage
+0,1083,55.55,3.54,1050597.35,298059.9,992.03,2.96,54.15
+1,867,54.88,3.59,1455736.9,409162.26,1344.33,3.09,43.35
+2,50,68.05,7.32,2416602.86,332747.25,1101.05,3.52,2.5

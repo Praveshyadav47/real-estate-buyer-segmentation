@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/clients.csv
+data/properties.csv
+data/buyer_segmentation_results.csv
+desktop.ini
